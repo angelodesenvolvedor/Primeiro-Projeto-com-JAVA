@@ -27,8 +27,11 @@ Antes de começar, verifique se você possui os seguintes requisitos:
 *Navegue até o diretório do projeto clonado.
 *Compile o código-fonte com o seguinte comando:
 
-'''bash
-*javac index.java
+* *javac index.java*
+
+### Passo 4: Executar o programa
+Após compilar o código, execute o programa com o seguinte comando:
+* *java index*
 
 ## 📦 Tecnologias usadas:
 * ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
