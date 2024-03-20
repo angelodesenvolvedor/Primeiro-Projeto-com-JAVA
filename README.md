@@ -22,5 +22,12 @@ Antes de começar, verifique se você possui os seguintes requisitos:
 
    ```bash
    git clone https://github.com/angelodesenvolvedor/Primeiro-Projeto-com-JAVA.git
+
+### Passo 3: Compilar o código-fonte
+*Navegue até o diretório do projeto clonado.
+*Compile o código-fonte com o seguinte comando:
+'''bash
+javac index.java
+
 ## 📦 Tecnologias usadas:
 * ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
