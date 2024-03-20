@@ -19,5 +19,3 @@ Siga estas etapas para compilar e executar o projeto em seu ambiente local:
 javac index.java
 
 
-## aaaaaa
-
