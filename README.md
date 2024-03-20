@@ -24,8 +24,8 @@ Antes de começar, verifique se você possui os seguintes requisitos:
    git clone https://github.com/angelodesenvolvedor/Primeiro-Projeto-com-JAVA.git
 
 ### Passo 3: Compilar o código-fonte
-* Navegue até o diretório do projeto clonado.
-* Compile o código-fonte com o seguinte comando:
+1. Navegue até o diretório do projeto clonado.
+2. Compile o código-fonte com o seguinte comando:
 
 * *javac index.java*
 
