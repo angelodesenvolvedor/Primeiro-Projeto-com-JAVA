@@ -43,4 +43,4 @@ Após compilar o código, execute o programa com o seguinte comando:
 * **Angelo** - Função realizada - [nome_do_dev]()
 
 ### 📄 Licença
-* Esse projeto está sob a licença *MIT license* - acesse os detalhes [LICENSE.md]().  
+* Esse projeto está sob a licença *MIT license* - acesse os detalhes [LICENSE.md](https://github.com/angelodesenvolvedor/Primeiro-Projeto-com-JAVA/tree/main?tab=MIT-1-ov-file).  
