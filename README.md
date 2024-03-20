@@ -21,6 +21,6 @@ Antes de começar, verifique se você possui os seguintes requisitos:
 2. Utilize o comando `git clone` para clonar este repositório:
 
    ```bash
-   git clone https://github.com/seu_usuario/seu_projeto.git
+   git clone https://github.com/angelodesenvolvedor/seu_projeto.git
 ## 📦 Tecnologias usadas:
 * ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
