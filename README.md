@@ -29,18 +29,18 @@ Antes de começar, verifique se você possui os seguintes requisitos:
 1. Navegue até o diretório do projeto clonado.
 2. Compile o código-fonte com o seguinte comando:
 
-* *javac index.java*
+* *javac App.java*
 
 ### Passo 4: Executar o programa
 Após compilar o código, execute o programa com o seguinte comando:
-* *java index*
+* *java App.java*
 
 ## 📦 Tecnologias usadas:
 * ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### 👷 Autor
 
-* **Angelo** - Função realizada - [nome_do_dev]()
+* **Angelo** - Função realizada - [angelodesenvolvedor]()
 
 ### 📄 Licença
 * Esse projeto está sob a licença *MIT license* - acesse os detalhes [LICENSE.md](https://github.com/angelodesenvolvedor/Primeiro-Projeto-com-JAVA/tree/main?tab=MIT-1-ov-file).  
