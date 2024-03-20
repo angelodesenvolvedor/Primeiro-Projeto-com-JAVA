@@ -1,3 +1,5 @@
+![image](https://github.com/angelodesenvolvedor/Primeiro-Projeto-com-JAVA/assets/98216100/73bb88c5-cd46-4483-9797-abe9a93fbbfc)
+
 # Primeiro Projeto com JAVA
 
 ## 🔥 Introdução
