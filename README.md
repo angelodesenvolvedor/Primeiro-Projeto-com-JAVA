@@ -39,3 +39,6 @@ Após compilar o código, execute o programa com o seguinte comando:
 ### 👷 Autor
 
 * **Angelo** - Função realizada - [nome_do_dev]()
+
+### 📄 Licença
+Esse projeto está sob a licença (nome da licença) - acesse os detalhes [LICENSE.md]().  
