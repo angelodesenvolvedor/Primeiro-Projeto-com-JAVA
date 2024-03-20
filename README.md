@@ -40,7 +40,7 @@ Após compilar o código, execute o programa com o seguinte comando:
 
 ### 👷 Autor
 
-* **Angelo** - Função realizada - [angelodesenvolvedor]()
+* **Angelo** - Função realizada - [angelodesenvolvedor](https://github.com/angelodesenvolvedor)
 
 ### 📄 Licença
 * Esse projeto está sob a licença *MIT license* - acesse os detalhes [LICENSE.md](https://github.com/angelodesenvolvedor/Primeiro-Projeto-com-JAVA/tree/main?tab=MIT-1-ov-file).  
