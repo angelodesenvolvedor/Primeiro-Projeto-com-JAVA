@@ -11,14 +11,16 @@ Antes de começar, verifique se você possui os seguintes requisitos:
 
 ## 🔨 Guia de instalação
 
-Siga estas etapas para compilar e executar o projeto em seu ambiente local:
+### Passo 1: Instalação do JDK
 
-### Passo 1: Compilar o código-fonte
-* *bash*
-* javac index.java
-### Passo 2:
-Após compilar o código, execute o programa com o seguinte comando:
-* *java index*
+* 1. Baixe e instale o [JDK (Java Development Kit)](link_para_download) adequado para o seu sistema operacional.
 
+### Passo 2: Clonar o repositório
+
+1. Abra um terminal ou prompt de comando.
+2. Utilize o comando `git clone` para clonar este repositório:
+
+   ```bash
+   git clone https://github.com/seu_usuario/seu_projeto.git
 ## 📦 Tecnologias usadas:
 * ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
