@@ -13,7 +13,7 @@ Antes de começar, verifique se você possui os seguintes requisitos:
 
 ### Passo 1: Instalação do JDK
 
-* 1. Baixe e instale o [JDK (Java Development Kit)](link_para_download) adequado para o seu sistema operacional.
+* 1. Baixe e instale o [JDK (Java Development Kit)](https://www.oracle.com/br/java/technologies/downloads/) adequado para o seu sistema operacional.
 
 ### Passo 2: Clonar o repositório
 
