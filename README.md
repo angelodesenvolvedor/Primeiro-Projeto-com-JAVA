@@ -35,12 +35,12 @@ Antes de começar, verifique se você possui os seguintes requisitos:
 Após compilar o código, execute o programa com o seguinte comando:
 * *java App.java*
 
-## 📦 Tecnologias usadas:
+## 💻 Tecnologias usadas:
 * ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### 👷 Autor
+### 🧑🏽‍💻 Autor
 
-* **Angelo** - Função realizada - [angelodesenvolvedor](https://github.com/angelodesenvolvedor)
+* **Angelo** - *Front-End Developer*- [angelodesenvolvedor](https://github.com/angelodesenvolvedor)
 
 ### 📄 Licença
 * Esse projeto está sob a licença *MIT license* - acesse os detalhes [LICENSE.md](https://github.com/angelodesenvolvedor/Primeiro-Projeto-com-JAVA/tree/main?tab=MIT-1-ov-file).  
