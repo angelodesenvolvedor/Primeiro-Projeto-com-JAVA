@@ -14,8 +14,11 @@ Antes de começar, verifique se você possui os seguintes requisitos:
 Siga estas etapas para compilar e executar o projeto em seu ambiente local:
 
 ### Passo 1: Compilar o código-fonte
-
-```bash
+*bash*
 javac index.java
+### Passo 2:
+Após compilar o código, execute o programa com o seguinte comando:
+*java index*
 
-
+## 📦 Tecnologias usadas:
+* ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
