@@ -2,7 +2,7 @@
 
 ## 🔥 Introdução
 
-Este projeto é parte da Aula 09 - "Nosso Primeiro Projeto com JAVA" no curso "Java: O Guia Completo de A - Z" na Udemy. O objetivo desta aula é introduzir os alunos ao desenvolvimento em Java através da criação de um simples programa que imprime "Hello, World!" no console.
+* Este projeto é parte da Aula 09 - "Nosso Primeiro Projeto com JAVA" no curso "Java: O Guia Completo de A - Z" na Udemy. O objetivo desta aula é introduzir os alunos ao desenvolvimento em Java através da criação de um simples programa que imprime "Hello, World!" no console.
 
 ## ⚙️ Pré-requisitos
 
@@ -18,5 +18,6 @@ Siga estas etapas para compilar e executar o projeto em seu ambiente local:
 ```bash
 javac index.java
 
-# 📦 Tecnologias usadas:
-Coloque aqui as ferramentas que você usou para criar seu projeto, exemplo:
+
+## aaaaaa
+
