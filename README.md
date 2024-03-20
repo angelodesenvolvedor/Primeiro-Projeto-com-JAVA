@@ -26,6 +26,7 @@ Antes de começar, verifique se você possui os seguintes requisitos:
 ### Passo 3: Compilar o código-fonte
 *Navegue até o diretório do projeto clonado.
 *Compile o código-fonte com o seguinte comando:
+
 '''bash
 *javac index.java
 
