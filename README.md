@@ -35,3 +35,7 @@ Após compilar o código, execute o programa com o seguinte comando:
 
 ## 📦 Tecnologias usadas:
 * ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### 👷 Autor
+
+* **Angelo** - Função realizada - [nome_do_dev]()
