@@ -1,4 +1,4 @@
-![image](https://github.com/angelodesenvolvedor/Primeiro-Projeto-com-JAVA/assets/98216100/73bb88c5-cd46-4483-9797-abe9a93fbbfc)
+![image](https://github.com/angelodesenvolvedor/Primeiro-Projeto-com-JAVA/assets/98216100/aa3bddd2-2a3c-4c7c-af73-b3376d2bc55d)
 
 # Primeiro Projeto com JAVA
 
